@@ -1,0 +1,28 @@
+{
+  "name": "olexfull",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkgoat/OLExFull.git"
+  },
+  "keywords": [
+    "extension"
+  ],
+  "author": "Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkgoat/OLExFull/issues"
+  },
+  "homepage": "https://github.com/gkgoat/OLExFull#readme",
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
