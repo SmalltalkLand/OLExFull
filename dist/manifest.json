@@ -1,0 +1,15 @@
+{"manifest_version": 2,
+"name": "ObjectLand",
+"version": "0.1",
+"background": {"scripts": []},
+"content_scripts": [{
+"matches": ["*://*/*"],
+"js": ["index.js"],
+"css": []
+
+}],
+"web_accessible_resources": [
+    "content.js"
+]
+
+}
